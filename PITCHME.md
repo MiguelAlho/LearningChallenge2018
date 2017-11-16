@@ -9,8 +9,8 @@
 
 ---
 
-## Learning is Essential
-## Learning is also Time consuming
+## Learning is Essential...
+## ... but it's also Time consuming
 ## eficiently avoid the cognitive overload
 ## Making time to learn is even Harder
 ## So much is going on, and there is only so much we can get through
@@ -25,6 +25,8 @@ Enough to know about it, enough to apply it and bring it into you day-to-day wor
 ## You choose what you feel would be the most benficial to you short / mid / long term (choose one)
 ## If your feeling brave, choose more, but get at least one
 
+---
+
 #Areas
 ### DevOps Practices
 ### Code Patterns
@@ -33,6 +35,7 @@ Enough to know about it, enough to apply it and bring it into you day-to-day wor
 ### Value Processes
 ### Human Skills
 
+---
 
 # DevOps Practices
 Tdd /Bdd
@@ -49,6 +52,8 @@ infra as code
  ‎runbooks
  ‎chaos engineering
 
+---
+
 #Quality Enhancements
 ‎ADRs
 living documentation
@@ -57,6 +62,7 @@ living documentation
  ‎db testing
  ‎‎nonfunctional validation
  
+---
 
 # Code Patterns
 ‎cqrs
@@ -71,33 +77,66 @@ db migrations
  ‎resilience patterns (circuit breaker)
  ‎- testing + mocking at this layer
 
+---
 # Tools
 Sonar qube + linters
 ‎build scripts
  ‎ package managers
 ‎"code as a crime scene"
-
+---
 # Business IQ
 
-
+---
 # Value Processes
 Event storming 
  Value stream mapping
  ‎impact mapping
   ‎maturity modelish evaluations
-
+---
 # Human Skills & Development
 ‎Blog
 ‎"captains log"
-
+Management skills ramp up
  
  
+---
 # HOW TO FIND TIME
 
+---
+
+## The big question is where / how to find the time.
+
+
+---
+
+### Lunch and Learn
+
+---
+### Speed Training
+
+---
+### Meetups
+
+
+--- 
+### Coffee Read
+
+
+---
+### Mix with exercise and driving (PolyActivity)
+
+
+### Go to a conference(s)
+
+---
+### READ
+### Listen to podcasts
+
+### Watch presentations
  
- , 
- 
- 
+###
+
+---
  
  ‎functional coding
  ‎identifying anti patterns and courses of action
@@ -107,7 +146,7 @@ Event storming
  Community coding
 - Open source
 
-5h p/ week of learning?
+5-hour-rule () p/ week of learning?)
 
 Lunch and learn
 - 48 lunches per year! 48 hours of learning.
