@@ -11,7 +11,7 @@
 
 ## Learning is Essential...
 ## ... but it's also Time consuming
-## eficiently avoid the cognitive overload
+## efficiently avoid the cognitive overload
 ## Making time to learn is even Harder
 ## So much is going on, and there is only so much we can get through
 
