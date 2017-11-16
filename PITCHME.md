@@ -10,60 +10,101 @@
 ---
 
 ## Learning is Essential
-
 ## Learning is also Time consuming
-
-
-
+## eficiently avoid the cognitive overload
 ## Making time to learn is even Harder
-
 ## So much is going on, and there is only so much we can get through
 
+#The challenge
+## Choose a topic - one is enough (it's better than 0)
+## Learn that topic in 2018
+Enough to know about it, enough to apply it and bring it into you day-to-day work
 
+#I'll Help with some topics
+## We'll break them down into areas
+## You choose what you feel would be the most benficial to you short / mid / long term (choose one)
+## If your feeling brave, choose more, but get at least one
+
+#Areas
+### DevOps Practices
+### Code Patterns
+### Tools
+### Business IQ
+### Value Processes
+### Human Skills
+
+
+# DevOps Practices
 Tdd /Bdd
-Sonar qube + linters
-Event storming 
- Value stream mapping
- ‎impact mapping
- ‎logging monitoring and business metrics
- ‎cqrs
- ‎circuit breaker pattern
- ‎living documentation
- ‎infra as code
- ‎dev tool portal - self service tooling
- ‎git + trunk based development
- ‎feature flags
- ‎feature metrics flags
- ‎ADRs
- ‎Blog
- ‎docOps
- ‎devSecOps
- ‎ci / cd
- ‎consumer driven contracts
+logging monitoring and business metrics
+infra as code
+‎‎dev tool portal - self service tooling
+‎git + trunk based development
+‎feature flags
+‎feature metrics flags
+‎docOps
+‎devSecOps
+‎ci / cd
+‎portmortems
+ ‎runbooks
+ ‎chaos engineering
+
+#Quality Enhancements
+‎ADRs
+living documentation
+‎consumer driven contracts
  ‎- what about at the shared db layer
- ‎db testing, db migrations
+ ‎db testing
+ ‎‎nonfunctional validation
+ 
+
+# Code Patterns
+‎cqrs
+ ‎circuit breaker pattern
+db migrations
  ‎polyglot persistence
- ‎nonfunctional validation
- ‎build scripts
- ‎ package managers
- ‎"captains log"
  ‎uService patterns
  ‎- discovery, monitoring...
  ‎immutability
- ‎functional coding
- ‎identifying anti patterns and courses of action
- ‎portmortems
- ‎runbooks
- ‎chaos engineering
- ‎"everything as code" (powerpoints, books, logs, adrs, help docs...)
  ‎event sourcing
  ‎message queue patterns
  ‎resilience patterns (circuit breaker)
  ‎- testing + mocking at this layer
- ‎"code as a crime scene"
- ‎maturity modelish evaluations
 
-Community coding
+# Tools
+Sonar qube + linters
+‎build scripts
+ ‎ package managers
+‎"code as a crime scene"
+
+# Business IQ
+
+
+# Value Processes
+Event storming 
+ Value stream mapping
+ ‎impact mapping
+  ‎maturity modelish evaluations
+
+# Human Skills & Development
+‎Blog
+‎"captains log"
+
+ 
+ 
+# HOW TO FIND TIME
+
+ 
+ , 
+ 
+ 
+ 
+ ‎functional coding
+ ‎identifying anti patterns and courses of action
+ 
+ ‎"everything as code" (powerpoints, books, logs, adrs, help docs...)
+ 
+ Community coding
 - Open source
 
 5h p/ week of learning?
