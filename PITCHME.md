@@ -2,7 +2,7 @@
 
 # 2018
 
-#### What are going to focus learn?
+#### What are you going to focus on?
 <br>The 2018 DevOps Porto Learning Challenge
 <br>
 <span class="byline">[ DevOpsPorto Meetup, December xth 2017 ]</span>
