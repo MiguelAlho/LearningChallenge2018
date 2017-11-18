@@ -199,7 +199,11 @@ Team skills
 
 ---
 
-### and you can change throughout the year
+### and you should commit to it throughout the year
+
+---
+
+### ...but it's OK to change throughout the year
 
 (that's ok)
 
@@ -228,11 +232,6 @@ Team skills
 ### You time (schedule It)
 
 (mix and match)
----
-
-## Lunch and Learn
-
-(~ 40 hours per year of learning if you do it once a week).
 
 ---
 
@@ -260,9 +259,18 @@ a.k.a Speed Training
 
 ---
 
+## Lunch and Learn
+
+* ~ 40 hours per year of learning if you do it once a week.
+* it's 1/5th of the 5-Hour rule
+
+---
+
 ### Group Gatherings
 
 Go To Conferences, Workshops and Meetups
+
+* Our meetup is 2 hours of monthly-ish learning.
 
 --- 
 
@@ -271,6 +279,16 @@ Go To Conferences, Workshops and Meetups
 Organize one!
 
 --- 
+
+### Habit of reading books
+
+Book challenge
+* at least one tech book per year / semester / quarter
+* fiction plus non fiction
+* ‎book group / swap
+* start a company library
+
+---
 
 ### Mix Activities
 
@@ -282,9 +300,9 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 
 * read books on your comute
 * listen to podcasts while you drive
-* listen to audio books while you excersice
+* listen to audio books while you excercise
 * watch a presentation while you cook
-* WC article reading
+* toilet reading
 
 ---
 
@@ -302,26 +320,33 @@ If what you want to learn is also what you have to work on at the moment, delibe
 ### Pairing at work
 
 Learn what other do by working with them, or help them acheive their goals
-* a dev can work with ops on call duty
+* a dev can work with ops on on-call duty
 * a dev can automate some unautomated process
 * a dev can do customer support
+
+Volunteer for it
 
 ---
 
 ### Improving at work
 
-* Manager 1-on-1s and Mentoring
+* Using 1-on-1s and Mentoring
 * Logging work and discoveries
 * Learning retrospectives
 * Portmortems to blamelessly learning from failure
+* 20% time projects or hack-a-thons
 
 ---
 
 ## You time
 
-### You need to schedule time for learning
+### Ultimately, you (may) need to schedule time for learning
 
 deliberately set the time aside (like a meeting) 
+
+---
+
+# when this gets moving....
 
 ---
  
@@ -350,30 +375,26 @@ Lobby for your training if you are not getting it.
 
 # Your company IS accountable for your training
 
-You should be able to afford these things... If not, something is fundamentally wrong.
+They should be able to afford these things... If not, something is fundamentally wrong.
 
 ---
  
-# You ARE accountable for your training
+# YOU are accountable for your training
 
 You SHOULD buy books and videos
 You SHOULD go to confrences and workshops
 
 ---
 
-# YOU ARE accountable for your training
+# YOU are accountable for your training
 
 You should be able to afford these things... If not, something is fundamentally wrong. 
 
 ---
 
-You own your career. It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
+### You own your career. It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
 
 ---
 
 ## In 2018, go learn something new!
 
-Book challenge
-- at least one tech book per year / semester / quarter
-- fiction plus non fiction
-- ‎book group / swap
