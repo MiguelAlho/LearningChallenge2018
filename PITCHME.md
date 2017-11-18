@@ -13,6 +13,11 @@
 
 ---
 
+# Lifelong Learning
+
+---
+
+
 # The 5-Hour Rule
 
 ---
@@ -54,7 +59,8 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 
 #The challenge
 
-## #IsWhatIllLearnAboutIn2018
+## #IsWhatIllLearnAboutIn2018 
+## #ImGoingToLearn
 
 Get your twitter app ready and type in tha hash tag .
 
@@ -184,6 +190,8 @@ Maturity model evaluations
 Management skills ramp up
 People Skills
 Empathy 
+Learning Organizations
+Team skills
  
 ---
 
@@ -197,7 +205,7 @@ Empathy
 
 ---
 
-# How to find the time
+## Sounds easy right?
 
 ---
 
@@ -207,17 +215,17 @@ Empathy
 
 ---
 
+# How to find the time?
+
+---
+
 ## Some techniques:
 
 ### Lunch and Learn
-### Speed Trainings
-### Meetups
-### Coffee Read
-### Mix with exercise and driving (PolyActivity)
-### Go to a conference(s)
-### READ
-### Listen to podcasts
-### Watch presentations
+### Group gatherings
+### Mix activities
+### Mix it into work
+### You time (schedule It)
 
 (mix and match)
 ---
@@ -236,7 +244,7 @@ all you need is some projector. everyone typically needs to eat lunch
 
 ---
 
-## Lunch and Learn (variation)
+## Lunch and Learn (variation 2)
 
 Just watch a tutorial or conference presentation at lunch (in group)
 
@@ -244,73 +252,128 @@ Just watch a tutorial or conference presentation at lunch (in group)
 
 ---
 
-### Speed Training
+## Lunch and Learn (variation 2)
+
+A bit more formal, and reduced time limite (15)
+
+a.k.a Speed Training
 
 ---
 
-### Meetups
+### Group Gatherings
+
+Go To Conferences, Workshops and Meetups
 
 --- 
 
-### Coffee Read
+### Group Gatherings (variation 1)
+
+Organize one!
+
+--- 
+
+### Mix Activities
+
+The idea is to do regular daily stuff (not cognitively expensive) with information ingestion
 
 ---
 
-### Mix with exercise and driving (PolyActivity)
+### Mix Activities (examples)
 
-
-### Go to a conference(s)
-
----
-### READ
-### Listen to podcasts
-
-### Watch presentations
- 
-###
+* read books on your comute
+* listen to podcasts while you drive
+* listen to audio books while you excersice
+* watch a presentation while you cook
+* WC article reading
 
 ---
- 
- ‎functional coding
- ‎identifying anti patterns and courses of action
- 
- ‎"everything as code" (powerpoints, books, logs, adrs, help docs...)
- 
- Community coding
-- Open source
 
-5-hour-rule () p/ week of learning?)
+### Mix it into work
 
-Lunch and learn
-- 48 lunches per year! 48 hours of learning.
-Speed training
+If what you want to learn is also what you have to work on at the moment, deliberately perform learning activities 
+* tutorials
+* Q&A
+* blog post reading and indexing
+* documenting and sharing learnings
+* tweeting
+
+---
+
+### Pairing at work
+
+Learn what other do by working with them, or help them acheive their goals
+* a dev can work with ops on call duty
+* a dev can automate some unautomated process
+* a dev can do customer support
+
+---
+
+### Improving at work
+
+* Manager 1-on-1s and Mentoring
+* Logging work and discoveries
+* Learning retrospectives
+* Portmortems to blamelessly learning from failure
+
+---
+
+## You time
+
+### You need to schedule time for learning
+
+deliberately set the time aside (like a meeting) 
+
+---
+ 
+## bring others along for the ride
+
+Like running, learning efforts can benefit from having others around you, pushing you forward and feeding from your effort.
+
+---
+
+## bring your organization along
+
+Is your company a learing organization? Can you be the one who helps transform it into one?
+
+---
+
+# Your company IS accountable for your training
+
+Both by law and by interest.
+
+Lobby for your training if you are not getting it.
+* get to workshops and conferences
+* get them to buy the books
+* get them to subsscribe to training sites (Lynda, Pluralsight, Mapt, Safari, Udemy...)
+
+---
+
+# Your company IS accountable for your training
+
+You should be able to afford these things... If not, something is fundamentally wrong.
+
+---
+ 
+# You ARE accountable for your training
+
+You SHOULD buy books and videos
+You SHOULD go to confrences and workshops
+
+---
+
+# YOU ARE accountable for your training
+
+You should be able to afford these things... If not, something is fundamentally wrong. 
+
+---
+
+You own your career. It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
+
+---
+
+## In 2018, go learn something new!
+
 Book challenge
 - at least one tech book per year / semester / quarter
 - fiction plus non fiction
 - ‎book group / swap
-Tech writing
-Conference 
-Workshop
-Podcasts
-Habit hacking
-You should be able to afford these things... If not something is fundamentally wrong. Lobby for your training!
-
-Manager 1-on-1
-Exploding kittens
-Cross skill expansion
-- dev learn manage techniques
-- ‎dev learn ops
-- ‎ops learn dev
-- ‎dev learn qa / sec
-- ‎dev - on call shift (follow along)
-- ‎psycology
-T-shaping your career
-Learning from failure / celebrating failure
-
-Softskills
-Freelancing / volunteering
-Colaborations
-Teams
-
-You own your career. It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
-
