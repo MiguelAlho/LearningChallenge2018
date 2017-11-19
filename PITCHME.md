@@ -1,15 +1,9 @@
 @title[What will you learn in 2018?]
 
-# 2018
-
-#### What are you going to focus on?
+## Ramp up your learning habits in 2018?
 <br>The 2018 DevOps Porto Learning Challenge
 <br>
 <span class="byline">[ DevOpsPorto Meetup, December xth 2017 ]</span>
-
----
-
-#The Quick Intro and Context
 
 ---
 
@@ -17,25 +11,27 @@
 
 ---
 
-
-# The 5-Hour Rule
-
----
-
 ## As IT Pros, Learning is Essential...
 
+Note:
 We are, after all, knowledge workers, in a demanding profession. Companies are and want to move fast , and that requires skilled professionals. Being a highly skilled can bring along many advantages - more enjoyable work, more fulfilling work, maybe more money as you progress.
 
 ---
 
 ## ... but it's also Time consuming
 
+Note:
 It's not hard; It's actually enjoyable and a part of the "optimal experience" (Csikszentmihalyi); But we are busy with everyday things and get lost in our ability to focus on aquiring new skills.
+
+---
+
+# The 5-Hour Rule
 
 ---
 
 ## Making time to learn is even Harder
 
+Note:
 Finding time is hard. 8 hour days, comutes, and a work-life balance to manage. Bills to pay.
 ´
 ---
@@ -43,6 +39,7 @@ Finding time is hard. 8 hour days, comutes, and a work-life balance to manage. B
 ## And Tech is changing right in front of us.. 
 # ALL THE TIME
 
+Note:
 So much is going on, and there is only so much we can get through. It is overwellming at least. Scary too. 
 
 ---
@@ -51,6 +48,7 @@ So much is going on, and there is only so much we can get through. It is overwel
 ## imposter syndrome
 ## burnout
 
+Note:
 We can't really learn everything. It's unfourtunate, but there is too much going on that we won't really get anywhere if we try to ingest everything at once. AND THAT IS OK!
 
 It's something that needs to be acknowledged and accepted. This doesn't mean we should stop learning cause we're never gonna get to everything. It just means that we should be miving forward and evolving, knowning we are going to continuously improve our selves.
@@ -62,6 +60,7 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 ## #IsWhatIllLearnAboutIn2018 
 ## #ImGoingToLearn
 
+Note:
 Get your twitter app ready and type in tha hash tag .
 
 ---
@@ -70,18 +69,21 @@ Get your twitter app ready and type in tha hash tag .
 
 <span class="byline">(hint: it's better than 0)</span>
 
+Note:
 It's like the Kanban WIP. Too much at the same time means nothing get's done.
 
 ---
 
 ## Learn that topic in 2018
 
+Note:
 Focus your searches on that topic. Read and inest enough to know about it, enough to apply it and bring it into you day-to-day work. Or event to discover new topics to move through.
 
 ---
 
 #I'll Help with some topics
 
+Note:
 We'll break them down into areas, You choose what you feel would be the most benficial to you short / mid / long term (choose one). If your feeling brave, choose more, but don't over do it. But get at least one.
 
 ---
@@ -120,6 +122,7 @@ DevSecOps
 ‎Portmortems
 Chaos engineering
 
+Note:
 learn a web tech to be able to build a tolling portal
 mix feature flags and metrics capturing
 
@@ -236,25 +239,28 @@ Team skills
 ---
 
 ## Lunch and Learn
+### (classic definition)
 
+Note:
 Someone brings a theme and a short presentations, and presents at lunch hour.
-
 all you need is some projector. everyone typically needs to eat lunch
 
 ---
 
-## Lunch and Learn (variation 2)
+## Lunch and Learn 
+### (variation 1)
 
+Note:
 Just watch a tutorial or conference presentation at lunch (in group)
-
 0 cost, guaranteed info ingestion
 
 ---
 
-## Lunch and Learn (variation 2)
+## Lunch and Learn 
+### (variation 2)
 
+Note:
 A bit more formal, and reduced time limite (15)
-
 a.k.a Speed Training
 
 ---
@@ -266,22 +272,24 @@ a.k.a Speed Training
 
 ---
 
-### Group Gatherings
+## Group Gatherings
 
 Go To Conferences, Workshops and Meetups
 
+Note:
 * Our meetup is 2 hours of monthly-ish learning.
 
 --- 
 
-### Group Gatherings (variation 1)
+## Group Gatherings (variation 1)
 
 Organize one!
 
 --- 
 
-### Habit of reading books
+## Habit of reading books
 
+Note:
 Book challenge
 * at least one tech book per year / semester / quarter
 * fiction plus non fiction
@@ -290,13 +298,14 @@ Book challenge
 
 ---
 
-### Mix Activities
+## Mix Activities
 
+Note:
 The idea is to do regular daily stuff (not cognitively expensive) with information ingestion
 
 ---
 
-### Mix Activities (examples)
+## Mix Activities (examples)
 
 * read books on your comute
 * listen to podcasts while you drive
@@ -324,6 +333,7 @@ Learn what other do by working with them, or help them acheive their goals
 * a dev can automate some unautomated process
 * a dev can do customer support
 
+Note:
 Volunteer for it
 
 ---
@@ -342,6 +352,7 @@ Volunteer for it
 
 ### Ultimately, you (may) need to schedule time for learning
 
+Note:
 deliberately set the time aside (like a meeting) 
 
 ---
@@ -352,12 +363,14 @@ deliberately set the time aside (like a meeting)
  
 ## bring others along for the ride
 
+Note:
 Like running, learning efforts can benefit from having others around you, pushing you forward and feeding from your effort.
 
 ---
 
 ## bring your organization along
 
+Note:
 Is your company a learing organization? Can you be the one who helps transform it into one?
 
 ---
