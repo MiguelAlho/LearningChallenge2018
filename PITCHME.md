@@ -4,38 +4,54 @@
 <br>
 #### The 2018 DevOps Porto Learning Challenge
 
-<span class="byline">[ DevOpsPorto Meetup, December xth 2017 ]</span>
+<span class="byline">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
+
+---
+
+
 ---
 
 # Lifelong Learning
 
 ---
 
-## As IT Pros, Learning is Essential...
+### As IT Pros, learning is 
+## ESSENTIAL...
 
 Note:
 * We are, after all, knowledge workers, in a demanding profession. 
 * Companies are and want to move fast , and that requires skilled professionals. 
 * Being a highly skilled can bring along many advantages - more enjoyable work, more fulfilling work, maybe more money as you progress.
+* We need to avoid becoming obsolete
 
 ---
 
-## ... but it's also Time consuming
+## ... but it's also time consuming
 
 Note:
-It's not hard; It's actually enjoyable and a part of the "optimal experience" (Csikszentmihalyi); But we are busy with everyday things and get lost in our ability to focus on aquiring new skills.
+* It's not hard; 
+* It's actually enjoyable and a part of the "optimal experience" (Csikszentmihalyi); 
+* But we are busy with everyday things and get lost in our ability to focus on aquiring new skills.
 
 ---
 
 # The 5-Hour Rule
 
+Note:
+* Google it
+* I haven't found science around this
+* but it's believe that some are highly active in learning
 ---
 
 ## Making time to learn is hards
 
 Note:
-Finding time is hard. 8-12 hour work days, comutes, kids to care of, and a work-life balance to manage.
-´
+Finding time is hard:
+* 8-12 hour work days, 
+* comutes, 
+* kids to care of, 
+* a work-life balance to manage.
+
 ---
 
 ### ... Tech keeps changing right in front of us... 
@@ -46,9 +62,10 @@ So much is going on, and there is only so much we can get through. It is overwel
 
 ---
 
-## cognitive overload
-## imposter syndrome
-## burnout
+# It's a trap!
+* cognitive overload
+* imposter syndrome
+* burnout
 
 Note:
 We can't really learn everything. It's unfourtunate, but there is too much going on that we won't really get anywhere if we try to ingest everything at once. AND THAT IS OK!
