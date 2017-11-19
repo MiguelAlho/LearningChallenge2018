@@ -43,7 +43,7 @@ Note:
 * but it's believe that some are highly active in learning
 ---
 
-## Making time to learn is hards
+## Making time to learn is hard
 
 Note:
 Finding time is hard:
@@ -117,12 +117,12 @@ We'll break them down into areas, You choose what you feel would be the most ben
 
 * TDD /BDD
 * CI / CD pipelines
-* GIT + flows 
+* GIT
 * Shell language
 * Runbooks
 
 Note:
-BAseline stuff for devops - choose one of these if they are not a part of your toolbelt yet. They are foundational
+Baseline stuff for devops - choose one of these if they are not a part of your toolbelt yet. They are foundational
 
 ---
 
@@ -130,10 +130,10 @@ BAseline stuff for devops - choose one of these if they are not a part of your t
 
 * Logging, Monitoring and business metrics capturing
 * Infrastrucute as code
-* ‎‎Building self service tool portal
-* ‎Feature flags
+* ‎‎Feature flags
+* Deployment techniques
 * DocOps
-* DevSecOps
+* Security
 * ‎Portmortems
 * Game Day activities
 * Chaos engineering
@@ -149,9 +149,8 @@ mix feature flags and metrics capturing
 * Living documentation
 * Consumer Driven Contracts
 * DB testing
-* Infreastrucutre Testing
+* Infrastrucutre Testing
 * Nonfunctional validation
-* Source code trend analysis (CodeMaat)
  
 ---
 
@@ -168,7 +167,6 @@ what about CDCs for
 * DB migrations
 * NoSql
 * Microservice patterns
-* Immutability
 * Event Sourcing
 * Message queue patterns
 * Reactive design 
@@ -187,7 +185,7 @@ Note:
 * Linters
 * ‎Build scripting
 * Package managers
-* ‎"code as a crime scene"
+* Code trend analysis
 * Static analysis tools
 
 ---
