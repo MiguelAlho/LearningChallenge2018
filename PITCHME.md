@@ -14,7 +14,9 @@
 ## As IT Pros, Learning is Essential...
 
 Note:
-We are, after all, knowledge workers, in a demanding profession. Companies are and want to move fast , and that requires skilled professionals. Being a highly skilled can bring along many advantages - more enjoyable work, more fulfilling work, maybe more money as you progress.
+* We are, after all, knowledge workers, in a demanding profession. 
+* Companies are and want to move fast , and that requires skilled professionals. 
+* Being a highly skilled can bring along many advantages - more enjoyable work, more fulfilling work, maybe more money as you progress.
 
 ---
 
@@ -32,11 +34,11 @@ It's not hard; It's actually enjoyable and a part of the "optimal experience" (C
 ## Making time to learn is even Harder
 
 Note:
-Finding time is hard. 8 hour days, comutes, and a work-life balance to manage. Bills to pay.
+Finding time is hard. 8-12 hour work days, comutes, kids to care of, and a work-life balance to manage.
 ´
 ---
 
-## And Tech is changing right in front of us.. 
+### And Tech is changing right in front of us.. 
 # ALL THE TIME
 
 Note:
@@ -55,10 +57,8 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 
 ---
 
-#The challenge
-
-## #IsWhatIllLearnAboutIn2018 
-## #ImGoingToLearn
+#### The challenge
+## @DevOpsPorto #ImGoingToLearn
 
 Note:
 Get your twitter app ready and type in tha hash tag .
@@ -74,53 +74,52 @@ It's like the Kanban WIP. Too much at the same time means nothing get's done.
 
 ---
 
-## Learn that topic in 2018
+## Focus on learning that topic in 2018
 
 Note:
 Focus your searches on that topic. Read and inest enough to know about it, enough to apply it and bring it into you day-to-day work. Or event to discover new topics to move through.
 
 ---
 
-#I'll Help with some topics
+## I'll Help with some topics
 
 Note:
 We'll break them down into areas, You choose what you feel would be the most benficial to you short / mid / long term (choose one). If your feeling brave, choose more, but don't over do it. But get at least one.
 
 ---
 
-#Areas
-### DevOps Practices
-### Code Patterns
-### Tools
-### Business IQ
-### Value Processes
-### Human Skills
+* DevOps Practices
+* Code Patterns
+* Tools
+* Business IQ
+* Value Processes
+* Human Skills
 
 ---
 
-# DevOps Practices
+## DevOps Practices
 
-TDD /BDD
-CI / CD pipelines
-GIT + flows 
-`* shell language
-‎runbooks
+* TDD /BDD
+* CI / CD pipelines
+* GIT + flows 
+* `* shell language
+* ‎runbooks
 
 <span class="byline">(choose one of these if they are not a part of your toolbelt yet. They are foundational)</span>
 
 ---
 
-# DevOps Practices
+## DevOps Practices
 
-Logging, Monitoring and business metrics capturing
-Infrastrucute as code
-‎‎Building self service tool portal
-‎feature flags
-‎feature metrics flags
-DocOps
-DevSecOps
-‎Portmortems
-Chaos engineering
+* Logging, Monitoring and business metrics capturing
+* Infrastrucute as code
+* ‎‎Building self service tool portal
+* ‎feature flags
+* ‎feature metrics flags
+* DocOps
+* DevSecOps
+* ‎Portmortems
+* Chaos engineering
 
 Note:
 learn a web tech to be able to build a tolling portal
@@ -128,7 +127,7 @@ mix feature flags and metrics capturing
 
 ---
 
-# Application Quality Enhancements
+## Application Quality Enhancements
 ‎ADRs
 Living documentation
 Consumer Driven Contracts
@@ -145,56 +144,52 @@ what about CDCs for
  
 ---
 
-# Coding Patterns
+## Coding Patterns
 
-‎CQRS
-Circuit Breaker Pattern
-DB migrations
-Polyglot persistence
-Microservice patterns
- ‎- discovery, monitoring, containerization, scheduling ...
-Immutability
-Event Sourcing
-Message queue patterns
-Resilience patterns (circuit breaker)
-Testing + mocking at this layer
-Reactive design 
-Scaling
-
----
-
-# Tools
-
-SonarQube 
-Linters
-‎Build scripting
-Package managers
-‎"code as a crime scene"
-Static analysis tools
+* ‎CQRS
+* Circuit Breaker Pattern
+* DB migrations
+* Polyglot persistence
+* Microservice patterns
+*  ‎- discovery, monitoring, containerization, scheduling ...
+* Immutability
+* Event Sourcing
+* Message queue patterns
+* Resilience patterns (circuit breaker)
+* Testing + mocking at this layer
+* Reactive design 
+* Scaling
 
 ---
 
-# Business IQ
+## Tools
+
+* SonarQube 
+* Linters
+* ‎Build scripting
+* Package managers
+* ‎"code as a crime scene"
+* Static analysis tools
 
 ---
 
-# Value Processes
+## Value Processes
 
-Event storming 
-Value stream mapping
-Impact mapping
-Maturity model evaluations
+* Event storming 
+* Value stream mapping
+* Impact mapping
+* Maturity model evaluations
 
 ---
-# Human Skills & Development
+## Human Skills & Development
 
-‎Blog
-‎"captains log"
-Management skills ramp up
-People Skills
-Empathy 
-Learning Organizations
-Team skills
+* ‎Blog
+* ‎"captains log"
+* Management skills ramp up
+* People Skills
+* Empathy 
+* Learning Organizations
+* Team skills
  
 ---
 
@@ -228,11 +223,11 @@ Team skills
 
 ## Some techniques:
 
-### Lunch and Learn
-### Group gatherings
-### Mix activities
-### Mix it into work
-### You time (schedule It)
+*  Lunch and Learn
+*  Group gatherings
+*  Mix activities
+*  Mix it into work
+*  You time (schedule It)
 
 (mix and match)
 
