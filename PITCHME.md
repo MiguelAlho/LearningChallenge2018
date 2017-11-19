@@ -1,10 +1,10 @@
 @title[What will you learn in 2018?]
 
 ## Ramp up your learning habits in 2018
+<br>
 #### The 2018 DevOps Porto Learning Challenge
 
 <span class="byline">[ DevOpsPorto Meetup, December xth 2017 ]</span>
-
 ---
 
 # Lifelong Learning
