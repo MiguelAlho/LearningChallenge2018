@@ -372,8 +372,9 @@ Is your company a learing organization? Can you be the one who helps transform i
 
 ---
 
-# Your company IS accountable for your training
+## Your company IS accountable for your training
 
+Note:
 Both by law and by interest.
 
 Lobby for your training if you are not getting it.
@@ -383,26 +384,17 @@ Lobby for your training if you are not getting it.
 
 ---
 
-# Your company IS accountable for your training
+## YOU are accountable for your training
 
-They should be able to afford these things... If not, something is fundamentally wrong.
-
----
- 
-# YOU are accountable for your training
-
-You SHOULD buy books and videos
-You SHOULD go to confrences and workshops
+Note:
+* You SHOULD buy books and videos
+* You SHOULD go to confrences and workshops
+* You should be able to afford these things... If not, something is fundamentally wrong. 
 
 ---
 
-# YOU are accountable for your training
-
-You should be able to afford these things... If not, something is fundamentally wrong. 
-
----
-
-### You own your career. It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
+## You OWN your career. 
+It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
 
 ---
 
