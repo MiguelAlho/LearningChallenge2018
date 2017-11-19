@@ -31,14 +31,14 @@ It's not hard; It's actually enjoyable and a part of the "optimal experience" (C
 
 ---
 
-## Making time to learn is even Harder
+## Making time to learn is hards
 
 Note:
 Finding time is hard. 8-12 hour work days, comutes, kids to care of, and a work-life balance to manage.
 ´
 ---
 
-### And Tech is changing right in front of us.. 
+### ... Tech keeps changing right in front of us... 
 # ALL THE TIME
 
 Note:
@@ -91,7 +91,6 @@ We'll break them down into areas, You choose what you feel would be the most ben
 * DevOps Practices
 * Code Patterns
 * Tools
-* Business IQ
 * Value Processes
 * Human Skills
 
@@ -102,10 +101,11 @@ We'll break them down into areas, You choose what you feel would be the most ben
 * TDD /BDD
 * CI / CD pipelines
 * GIT + flows 
-* `* shell language
-* ‎runbooks
+* Shell language
+* Runbooks
 
-<span class="byline">(choose one of these if they are not a part of your toolbelt yet. They are foundational)</span>
+Note:
+BAseline stuff for devops - choose one of these if they are not a part of your toolbelt yet. They are foundational
 
 ---
 
@@ -114,11 +114,11 @@ We'll break them down into areas, You choose what you feel would be the most ben
 * Logging, Monitoring and business metrics capturing
 * Infrastrucute as code
 * ‎‎Building self service tool portal
-* ‎feature flags
-* ‎feature metrics flags
+* ‎Feature flags
 * DocOps
 * DevSecOps
 * ‎Portmortems
+* Game Day activities
 * Chaos engineering
 
 Note:
@@ -128,13 +128,13 @@ mix feature flags and metrics capturing
 ---
 
 ## Application Quality Enhancements
-‎ADRs
-Living documentation
-Consumer Driven Contracts
-DB testing
-Infreastrucutre Testing
-Nonfunctional validation
-Source code trend analysis (CodeMaat)
+* ‎ADRs
+* Living documentation
+* Consumer Driven Contracts
+* DB testing
+* Infreastrucutre Testing
+* Nonfunctional validation
+* Source code trend analysis (CodeMaat)
  
 ---
 
@@ -147,19 +147,21 @@ what about CDCs for
 ## Coding Patterns
 
 * ‎CQRS
-* Circuit Breaker Pattern
+* Resiliency patterns (circuit breaker)
 * DB migrations
-* Polyglot persistence
+* NoSql
 * Microservice patterns
-*  ‎- discovery, monitoring, containerization, scheduling ...
 * Immutability
 * Event Sourcing
 * Message queue patterns
-* Resilience patterns (circuit breaker)
-* Testing + mocking at this layer
 * Reactive design 
-* Scaling
+* Scalabilty patterns
 
+Note: 
+* uService ‎- discovery, monitoring, containerization, scheduling ...
+* Resiliency - how to test at that layer
+* how to test db integration layer´
+* scalability at the service and infrastructure layers
 ---
 
 ## Tools
@@ -181,27 +183,26 @@ what about CDCs for
 * Maturity model evaluations
 
 ---
-## Human Skills & Development
+## People Skills & Development
 
-* ‎Blog
+* Writing
 * ‎"captains log"
-* Management skills ramp up
-* People Skills
 * Empathy 
+* Management & Leadershiop skills
+* Team & communication skills
 * Learning Organizations
-* Team skills
  
 ---
 
-### you can choose topics that are not on this list
+## You can choose topics that are not on this list
 
 ---
 
-### and you should commit to it throughout the year
+## Commit to it throughout the year
 
 ---
 
-### ...but it's OK to change throughout the year
+## ...but it's OK to change throughout the year
 
 (that's ok)
 
@@ -229,7 +230,9 @@ what about CDCs for
 *  Mix it into work
 *  You time (schedule It)
 
+NOTE: 
 (mix and match)
+If you know any good ones that work for you , PLEASE DO SHARE 
 
 ---
 
@@ -276,7 +279,8 @@ Note:
 
 --- 
 
-## Group Gatherings (variation 1)
+## Group Gatherings 
+### (variation 1)
 
 Organize one!
 
@@ -285,7 +289,7 @@ Organize one!
 ## Habit of reading books
 
 Note:
-Book challenge
+Challenge Adendum : Book challenge
 * at least one tech book per year / semester / quarter
 * fiction plus non fiction
 * ‎book group / swap
@@ -300,7 +304,8 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 
 ---
 
-## Mix Activities (examples)
+## Mix Activities 
+### (examples)
 
 * read books on your comute
 * listen to podcasts while you drive
@@ -312,7 +317,8 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 
 ### Mix it into work
 
-If what you want to learn is also what you have to work on at the moment, deliberately perform learning activities 
+On the job, deliberately
+
 * tutorials
 * Q&A
 * blog post reading and indexing
@@ -338,7 +344,7 @@ Volunteer for it
 * Using 1-on-1s and Mentoring
 * Logging work and discoveries
 * Learning retrospectives
-* Portmortems to blamelessly learning from failure
+* Portmortems to blamelessly learn from failure
 * 20% time projects or hack-a-thons
 
 ---
@@ -349,10 +355,6 @@ Volunteer for it
 
 Note:
 deliberately set the time aside (like a meeting) 
-
----
-
-# when this gets moving....
 
 ---
  
