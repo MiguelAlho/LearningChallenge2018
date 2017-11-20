@@ -145,6 +145,7 @@ mix feature flags and metrics capturing
 ---
 
 ## Application Quality Enhancements
+
 * ‎ADRs
 * Living documentation
 * Consumer Driven Contracts
@@ -154,10 +155,36 @@ mix feature flags and metrics capturing
  
 ---
 
-what about CDCs for 
+## ADRs 
+### Architecture Decision Records
+
+<span class="byline">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
+
+Note:
+* short text file (don't overdo it)
+* single decision per file
+* Easy to insert practice
+* Helps describe changes in a repo / architecture
+* Great help for the onboarding process
+* Functional + Non Functional
+* Context to your change history
+
+* Read Micheal Nygards stuff on this
+
+---
+
+## Consumer Driven Contracts
+
+### It's like TDD for services
+
+NOTE:
+* consumers write expectation
+* services test valid 
+* what about CDCs for 
     - what about at the shared db layer
     - non http services
- 
+* tools like Pact and Pacto help
+* check out Beth Skurrie's presentations
 ---
 
 ## Coding Patterns
@@ -179,23 +206,56 @@ Note:
 * scalability at the service and infrastructure layers
 ---
 
+## CQRS
+### Command Query Responsability Segregation
+
+Notes:
+* CQS at the architectural level
+* Reads and writes through different channels
+* single source of truth
+* event propagation on state changes
+* REACT a bit like this on the UI layer
+
+---
 ## Tools
 
-* SonarQube 
+* Code Quality Analysis 
+* Code change trend analysis
 * Linters
 * ‎Build scripting
 * Package managers
-* Code trend analysis
 * Static analysis tools
 
 ---
+### Code Quality/Change Trend Analysis
 
+#### Tools like Code-Maat and SonaeQube
+
+Note:
+* Sonae Qunbe stores code metrics and analysis histroically
+* Code-maat checks for code coupling trends and change motivation
+---
 ## Value Processes
 
 * Event storming 
 * Value stream mapping
 * Impact mapping
 * Maturity model evaluations
+
+---
+### Event Storming
+
+* Physical sfoteare modeling technique
+* Excelent for project inception phases
+* Domain events and Aggregate exploration
+* Helps find Bounded contexts and subdomains, too
+
+Notes:
+* Sticky note based
+* Low tech, low cost techinique
+* everyone participates
+* Maps beautifully to DDD concepts
+* Check out Alberto Brandolini's work on this
 
 ---
 ## People Skills & Development
