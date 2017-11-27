@@ -229,10 +229,10 @@ Notes:
 ---
 ### Code Quality/Change Trend Analysis
 
-#### Tools like Code-Maat and SonaeQube
+#### Tools like Code-Maat and SonarQube
 
 Note:
-* Sonae Qunbe stores code metrics and analysis histroically
+* SonarQube stores code metrics and analysis histroically
 * Code-maat checks for code coupling trends and change motivation
 ---
 ## Value Processes
