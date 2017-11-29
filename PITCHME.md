@@ -8,10 +8,20 @@
 
 ---
 
+* Software Engineer @ FARO Technologies
+* Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
+* Teacher, Grapic Designer, Photographer, Volunteer, 
+* @MytyMyky
+* www.miguelalho.pt
 
 ---
 
 # Lifelong Learning
+
+Note:
+* Tap into our own potential - unrealized ability
+* We need to have a growth mindset instead of a fixed mindset
+* "get better" => continuous improvement 
 
 ---
 
@@ -41,6 +51,8 @@ Note:
 * Google it
 * I haven't found science around this
 * but it's believe that some are highly active in learning
+* And its a great measurable thing to consider for ourselves
+
 ---
 
 ## Making time to learn is hard
@@ -75,7 +87,7 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 ---
 
 #### The challenge
-## @DevOpsPorto #ImGoingToLearn
+## @DevOpsPorto #ImGoingToLearn 
 
 Note:
 Get your twitter app ready and type in tha hash tag .
@@ -94,7 +106,7 @@ It's like the Kanban WIP. Too much at the same time means nothing get's done.
 ## Focus on learning that topic in 2018
 
 Note:
-Focus your searches on that topic. Read and inest enough to know about it, enough to apply it and bring it into you day-to-day work. Or event to discover new topics to move through.
+Focus your searches on that topic. Read and ingest enough to know about it, enough to apply it and bring it into you day-to-day work. Or event to discover new topics to move through.
 
 ---
 
@@ -115,7 +127,7 @@ We'll break them down into areas, You choose what you feel would be the most ben
 
 ## DevOps Practices
 
-* TDD /BDD
+* TDD / BDD
 * CI / CD pipelines
 * GIT
 * Shell language
@@ -139,8 +151,9 @@ Baseline stuff for devops - choose one of these if they are not a part of your t
 * Chaos engineering
 
 Note:
-learn a web tech to be able to build a tolling portal
-mix feature flags and metrics capturing
+* alot is related to non-functional requirements and often "left behind"
+* learn a web tech to be able to build a tolling portal
+* mix feature flags and metrics capturing
 
 ---
 
@@ -256,8 +269,10 @@ Notes:
 * everyone participates
 * Maps beautifully to DDD concepts
 * Check out Alberto Brandolini's work on this
+* even when done poorly, It still brings in a lot of value
 
 ---
+
 ## People Skills & Development
 
 * Writing
@@ -388,12 +403,19 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 * watch a presentation while you cook
 * toilet reading
 
+NOTE: 
+* Learning requires focus. You can't focus if you mix activities that require attention. 
+* Multitasking is expensive
+* Consider only activities that do not require great attention
+* consider mixing senses (amygdala is connected to the hippocampus)
+
 ---
 
 ### Mix it into work
 
 On the job, deliberately
 
+* katas
 * tutorials
 * Q&A
 * blog post reading and indexing
@@ -437,6 +459,7 @@ deliberately set the time aside (like a meeting)
 
 Note:
 Like running, learning efforts can benefit from having others around you, pushing you forward and feeding from your effort.
+Careful, others may reduce efficiency if not focused / committed.
 
 ---
 
@@ -444,6 +467,7 @@ Like running, learning efforts can benefit from having others around you, pushin
 
 Note:
 Is your company a learing organization? Can you be the one who helps transform it into one?
+* concept of learning org is more then this, obviously, but it's a step in that direction
 
 ---
 
@@ -475,3 +499,6 @@ It solely up to you. Your company may help/ your colleagues and friends may help
 
 ## In 2018, go learn something new!
 
+#### thank you very much
+#### www.miguelalho.pt
+---
