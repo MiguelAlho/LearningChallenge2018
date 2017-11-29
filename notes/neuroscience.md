@@ -1,20 +1,50 @@
+Overview
+
+* Tap into potential
+* Mindset : Fixed vs Growth
+* * Brain is elastic, so growth is ALWAYS possible
+* * Growth mindset => continuous improvement
+* "YET" is a keyword in growth
+---
 Bloom and Kolbs models
+
+---
+
+##Bloom's Hierarchy of LearninG: (Levels of learning)
+
+(bottom)
+Remembering
+->
+Understanding
+->
+Applying
+-> (high order learning)
+Analysing | Creating | Evaluation
+
+---
+## Kolbs Learning Cycle
+
+Walk people around the model when teaching
 
 --- 
 
-3 phases (Britt Andreata)
+# 3 phases (Britt Andreata)
 
 LEARN - REMEMBER - DO
 
 ---
 
 # LEARN:
+* levels
+* cycle
+* requires focus (turns on the hippocampus)
 
 ---
 
 # REMEMBER:
 - connections
-
+* feelings
+* retreival (3 with sleep)
 
 ---
 
@@ -83,9 +113,9 @@ Retrieval
 ---
 
 # DO
-* trigger
+* trigger (observable)
 * baby steps
-* reward
+* reward 
 
 ---
 

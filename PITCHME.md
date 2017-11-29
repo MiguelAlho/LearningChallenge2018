@@ -72,7 +72,7 @@ Finding time is hard:
 Note:
 So much is going on, and there is only so much we can get through. It is overwellming at least. Scary too. 
 
----
+---?image=assets/memes/itsatrap.jpg
 
 # It's a trap!
 * cognitive overload
