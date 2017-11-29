@@ -120,7 +120,7 @@ We'll break them down into areas, You choose what you feel would be the most ben
 * Code Patterns
 * Tools
 * Value Processes
-* Human Skills
+* People Skills & Personal Development
 
 ---
 
@@ -221,7 +221,7 @@ Note:
 ## CQRS
 ### Command Query Responsability Segregation
 
-Notes:
+Note:
 * CQS at the architectural level
 * Reads and writes through different channels
 * single source of truth
@@ -262,7 +262,7 @@ Note:
 * Domain events and Aggregate exploration
 * Helps find Bounded contexts and subdomains, too
 
-Notes:
+Note:
 * Sticky note based
 * Low tech, low cost techinique
 * everyone participates
@@ -272,13 +272,13 @@ Notes:
 
 ---
 
-## People Skills & Development
+## People Skills & Personal Development
 
 * Writing
-* ‎"captains log"
+* "‎Captains Log"
 * Empathy 
-* Management & Leadershiop skills
-* Team & communication skills
+* Management & Leadership Skills
+* Team & Communication Skills
 * Learning Organizations
  
 ---
@@ -317,7 +317,7 @@ Notes:
 *  Group gatherings
 *  Mix activities
 *  Mix it into work
-*  You time (schedule It)
+*  YOU time (schedule it!)
 
 NOTE: 
 (mix and match)
@@ -352,10 +352,8 @@ a.k.a Speed Training
 
 ---
 
-## Lunch and Learn
-
-* ~ 40 hours per year of learning if you do it once a week.
-* it's 1/5th of the 5-Hour rule
+#### ~ 40 hours per year of learning if you do it once a week.
+(1/5th of the 5-Hour rule)
 
 ---
 
@@ -365,13 +363,8 @@ Go To Conferences, Workshops and Meetups
 
 Note:
 * Our meetup is 2 hours of monthly-ish learning.
-
---- 
-
-## Group Gatherings 
-### (variation 1)
-
-Organize one!
+* Social aspect enables some interesting things in our brains
+* take it a step further and organize one
 
 --- 
 
@@ -447,7 +440,7 @@ Volunteer for it
 
 ## You time
 
-### Ultimately, you (may) need to schedule time for learning
+#### Ultimately, you (may) need to schedule time for learning
 
 Note:
 deliberately set the time aside (like a meeting) 
