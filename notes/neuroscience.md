@@ -39,7 +39,12 @@ LEARN - REMEMBER - DO
 * cycle
 * requires focus (turns on the hippocampus)
 
+NOTE:
+* 20 minutes focus max (capacity issue of the hippocampus)
+* groups distraction agrevates focus (easy to influence distration)
+* effort matters - taking notes (written notes and images )helps (kinestetics)
 ---
+
 
 # REMEMBER:
 - connections

@@ -74,12 +74,11 @@ So much is going on, and there is only so much we can get through. It is overwel
 
 ---?image=assets/memes/itsatrap.jpg
 
-# It's a trap!
+Note:
 * cognitive overload
 * imposter syndrome
 * burnout
 
-Note:
 We can't really learn everything. It's unfourtunate, but there is too much going on that we won't really get anywhere if we try to ingest everything at once. AND THAT IS OK!
 
 It's something that needs to be acknowledged and accepted. This doesn't mean we should stop learning cause we're never gonna get to everything. It just means that we should be miving forward and evolving, knowning we are going to continuously improve our selves.
