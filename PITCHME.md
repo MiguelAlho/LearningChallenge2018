@@ -260,12 +260,14 @@ Note:
 <div id="left">
 ![Event Storming Book](assets/images/eventstorming.book.page.1.png)
 </div>
+
 <div id="right">
 * Physical software modeling technique
 * Excelent for project inception phases
 * Domain events and Aggregate exploration
 * Helps find Bounded contexts and subdomains, too
 </div>
+
 Note:
 * Sticky note based
 * Low tech, low cost techinique

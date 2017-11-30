@@ -6,6 +6,10 @@
     z-index:-10;
 }
 
+    #left img{
+        width:100%;
+    }
+
 #right {
     left:31.25%;
     top: 75px;
