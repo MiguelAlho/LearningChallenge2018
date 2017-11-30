@@ -11,9 +11,8 @@
 * Software Engineer @ FARO Technologies
 * ![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
 * Teacher, Grapic Designer, Photographer, Volunteer, 
-* ![Twitter](assets/about/220px-Twitter_bird_logo_2012.svg.png)
 @fa[twitter](@MytyMyky)
-* ![Website](assets/about/web.png)www.miguelalho.pt
+@fa[globe](www.miguelalho.pt)
 
 ---
 
