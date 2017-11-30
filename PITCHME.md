@@ -7,12 +7,13 @@
 <span class="byline">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
 
 ---
-
+![FARO](assets/about/faro.png)
 * Software Engineer @ FARO Technologies
-* Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
+* ![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
 * Teacher, Grapic Designer, Photographer, Volunteer, 
-* @MytyMyky
-* www.miguelalho.pt
+* ![Twitter](assets/about/220px-Twitter_bird_logo_2012.svg.png)
+@fa[twitter](@MytyMyky)
+* ![Website](assets/about/web.png)www.miguelalho.pt
 
 ---
 
@@ -257,6 +258,7 @@ Note:
 ---
 ### Event Storming
 
+![Event Storming Book](assets/images/eventstorming.book.page.1.png)
 * Physical sfoteare modeling technique
 * Excelent for project inception phases
 * Domain events and Aggregate exploration
