@@ -11,8 +11,8 @@
 * Software Engineer @ FARO Technologies
 * ![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
 * Teacher, Grapic Designer, Photographer, Volunteer, 
-@fa[twitter](@MytyMyky)
-@fa[globe](www.miguelalho.pt)
+@fa[twitter] @MytyMyky
+@fa[globe] www.miguelalho.pt
 
 ---
 
@@ -209,7 +209,7 @@ NOTE:
 * Event Sourcing
 * Message queue patterns
 * Reactive design 
-* Scalabilty patterns
+* Scalability patterns
 
 Note: 
 * uService ‎- discovery, monitoring, containerization, scheduling ...
@@ -244,7 +244,7 @@ Note:
 #### Tools like Code-Maat and SonaeQube
 
 Note:
-* Sonae Qunbe stores code metrics and analysis histroically
+* Sonae Qube stores code metrics and analysis histroically
 * Code-maat checks for code coupling trends and change motivation
 ---
 ## Value Processes
@@ -257,12 +257,15 @@ Note:
 ---
 ### Event Storming
 
+<div id="left">
 ![Event Storming Book](assets/images/eventstorming.book.page.1.png)
-* Physical sfoteare modeling technique
+</div>
+<div id="right">
+* Physical software modeling technique
 * Excelent for project inception phases
 * Domain events and Aggregate exploration
 * Helps find Bounded contexts and subdomains, too
-
+</div>
 Note:
 * Sticky note based
 * Low tech, low cost techinique
