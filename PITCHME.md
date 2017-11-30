@@ -262,10 +262,12 @@ Note:
 </div>
 
 <div id="right">
-* Physical software modeling technique
-* Excelent for project inception phases
-* Domain events and Aggregate exploration
-* Helps find Bounded contexts and subdomains, too
+<ul>
+    <li>Physical software modeling technique</li>
+    <li>Excelent for project inception phases</li>
+    <li>Domain events and Aggregate exploration</li>
+    <li>Helps find Bounded contexts and subdomains, too</li>
+</ul>
 </div>
 
 Note:
