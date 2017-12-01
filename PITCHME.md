@@ -4,15 +4,24 @@
 <br>
 #### The 2018 DevOps Porto Learning Challenge
 
-<span class="byline">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
+<span class="byline lowernote">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
 
 ---
+
+<div id="left">
 ![FARO](assets/about/faro.png)
+
+</div>
+<div id="right">
 * Software Engineer @ FARO Technologies
 * ![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
 * Teacher, Grapic Designer, Photographer, Volunteer, 
+<br/>
 @fa[twitter] @MytyMyky
+<br/>
 @fa[globe] www.miguelalho.pt
+
+</div>
 
 ---
 
@@ -85,6 +94,10 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 
 ---
 
+## Let's overcome this...
+
+---
+
 #### The challenge
 ## @DevOpsPorto #ImGoingToLearn 
 
@@ -93,7 +106,7 @@ Get your twitter app ready and type in tha hash tag .
 
 ---
 
-## Choose a topic - one is enough 
+### Choose a topic - one is enough 
 
 <span class="byline">(hint: it's better than 0)</span>
 
@@ -168,9 +181,9 @@ Note:
 ---
 
 ## ADRs 
-### Architecture Decision Records
+#### Architecture Decision Records
 
-<span class="byline">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
+<span class="byline lowernote">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
 
 Note:
 * short text file (don't overdo it)
@@ -187,7 +200,7 @@ Note:
 
 ## Consumer Driven Contracts
 
-### It's like TDD for services
+#### It's like TDD for services
 
 NOTE:
 * consumers write expectation
@@ -219,7 +232,7 @@ Note:
 ---
 
 ## CQRS
-### Command Query Responsability Segregation
+#### Command Query Responsability Segregation
 
 Note:
 * CQS at the architectural level
