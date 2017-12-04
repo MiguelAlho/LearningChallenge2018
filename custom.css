@@ -7,6 +7,10 @@
 }
 
     #left img{
+        width:100%;
+    }
+
+    #left.eventstorming img{
         height:80%;
         width:80%;
     }

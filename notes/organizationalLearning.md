@@ -296,10 +296,3 @@ customer service / creativity / development / culture
 
 # NExt steps
 
-
-
-
-
-
-
-
