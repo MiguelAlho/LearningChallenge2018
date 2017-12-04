@@ -9,13 +9,16 @@
 ---
 
 <div id="left">
-![FARO](assets/about/faro.png)
-
+![FARO](assets/about/faro-logo-white-15.webp)
+![Factory metrology](assets/about/factory-metrology-vertical-2.jpg)
 </div>
+
 <div id="right">
-* Software Engineer @ FARO Technologies
-* ![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)Previously a Freelance Consultant (Miguel Alho Multimédia, Uni. Lda)
-* Teacher, Grapic Designer, Photographer, Volunteer, 
+![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)
+* Teacher
+* Grapic Designer
+* Photographer
+* Volunteer
 <br/>
 @fa[twitter] @MytyMyky
 <br/>
