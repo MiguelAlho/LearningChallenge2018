@@ -58,12 +58,16 @@ Note:
 ---
 
 # The 5-Hour Rule
+![5 hour rule](assets/images/5hourulegraph.png)
 
 Note:
 * Google it
-* I haven't found science around this
+* I haven't found science around this (mostly observation)
 * but it's believe that some are highly active in learning
 * And its a great measurable thing to consider for ourselves
+* READ - REFLECT - EXPERIMENT
+
+(image credit: https://fityourself.club/the-5-hour-rule-to-excel-at-any-skill-55f2a635dc4b)
 
 ---
 
