@@ -57,8 +57,8 @@ Note:
 
 ---
 
-# The 5-Hour Rule
-![5 hour rule](assets/images/5hourulegraph.png)
+## The 5-Hour Rule
+![5 hour rule](assets/images/5hourrulegraph.png)
 
 Note:
 * Google it
