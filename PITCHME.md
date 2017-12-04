@@ -153,8 +153,8 @@ Baseline stuff for devops - choose one of these if they are not a part of your t
 ## DevOps Practices
 
 * Logging, Monitoring and business metrics capturing
-* Infrastrucute as code
-* ‎‎Feature flags
+* Infrastructure as code
+* ‎‎Feature flagging
 * Deployment techniques
 * DocOps
 * Security
@@ -175,7 +175,7 @@ Note:
 * Living documentation
 * Consumer Driven Contracts
 * DB testing
-* Infrastrucutre Testing
+* Infrastructure Testing
 * Nonfunctional validation
  
 ---
@@ -254,10 +254,10 @@ Note:
 ---
 ### Code Quality/Change Trend Analysis
 
-#### Tools like Code-Maat and SonaeQube
+#### Tools like Code-Maat and SonarQube
 
 Note:
-* Sonae Qube stores code metrics and analysis histroically
+* Sonar Qube stores code metrics and analysis histroically
 * Code-maat checks for code coupling trends and change motivation
 ---
 ## Value Processes
@@ -347,29 +347,19 @@ If you know any good ones that work for you , PLEASE DO SHARE
 ---
 
 ## Lunch and Learn
-### (classic definition)
+### (4 ways to do it)
 
 Note:
-Someone brings a theme and a short presentations, and presents at lunch hour.
+* Classic : Someone brings a theme and a short presentations, and presents at lunch hour.
 all you need is some projector. everyone typically needs to eat lunch
-
----
-
-## Lunch and Learn 
-### (variation 1)
-
-Note:
+* Variation 1: 
 Just watch a tutorial or conference presentation at lunch (in group)
 0 cost, guaranteed info ingestion
-
----
-
-## Lunch and Learn 
-### (variation 2)
-
-Note:
+* Variation 2
 A bit more formal, and reduced time limite (15)
 a.k.a Speed Training
+* Variation 3
+While having lunch, watch some tutorial or presentation
 
 ---
 
@@ -400,13 +390,6 @@ Challenge Adendum : Book challenge
 
 ---
 
-## Mix Activities
-
-Note:
-The idea is to do regular daily stuff (not cognitively expensive) with information ingestion
-
----
-
 ## Mix Activities 
 ### (examples)
 
@@ -417,6 +400,8 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 * toilet reading
 
 NOTE: 
+The idea is to do regular daily stuff (not cognitively expensive) with information ingestion
+
 * Learning requires focus. You can't focus if you mix activities that require attention. 
 * Multitasking is expensive
 * Consider only activities that do not require great attention
@@ -433,7 +418,7 @@ On the job, deliberately
 * Q&A
 * blog post reading and indexing
 * documenting and sharing learnings
-* tweeting
+* link sharing
 
 ---
 
@@ -468,7 +453,7 @@ deliberately set the time aside (like a meeting)
 
 ---
  
-## bring others along for the ride
+## Bring others along for the ride
 
 Note:
 Like running, learning efforts can benefit from having others around you, pushing you forward and feeding from your effort.
@@ -476,7 +461,7 @@ Careful, others may reduce efficiency if not focused / committed.
 
 ---
 
-## bring your organization along
+## Bring your organization along
 
 Note:
 Is your company a learing organization? Can you be the one who helps transform it into one?

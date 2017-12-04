@@ -207,6 +207,95 @@ Why-How-Try to create Insights
 
 ---
 
+# Off-TheShelf vs Bespoke (Custom) Solutions
+
+* check if they map to the Greiner Curve
+* what flexibility is available for add-ons and changes
+* verify copyright context
+* what customization is available (customizable aproximates to company culture)
+* does it drive the behaviour change expected?
+* does it have a good story ark?
+* mix and match (blend)
+* flexibility + accessability
+
+---
+
+# Learning program systems (LMS)
+
+* tooling and tracking
+* delivery
+
+---
+
+# Learning Program Processes
+
+* partership process (coordination)
+* design team (create learning solutions)
+* project management process
+* asset management
+* marketing (internal anouncements)
+* comunications team
+* who will delivery / facilitate the content
+* * facilitator management system
+* data collection (for evaluation)
+* legal
+
+team will grow as learning process grows
+
+---
+
+# curating content
+
+* curating content for learners
+* * helps expand learning options and info
+* * book chapters, books and articles
+
+## for every solution, curate aditional learning
+
+Curation ideas:
+* curate articles on topic
+* research (choos stuff from leaders)
+* books (print + audio)
+* * look for licensing options
+* videos (playlists)
+* Ted talks
+* podcasts
+* websites
+
+VET everything first! (guarantee quality)
+
+* consider how to store and house content (website portal)
+
+---
+
+# Evaluation Methods
+
+ROI of Learning (Jack Philips)
+* ROI (highest level)
+* Impact
+* Implementation
+* Learning
+* Reaction / Satisfations (basic level)
+
+Reaction : did they like it?
+Learning: Did the learn
+Implementaiton: Were they able to deploy the learning on the job (behaviour change)
+Impact: did it impact business results
+ROI: did the investment payoff?
+
+## ROI:
+* Benefit / cost ratio
+* as a percentage
+* Time to PAyoff (how long the investment in learning took to pay for itself)
+
+COSTs:
+Cost / -Output / Time / Quality / eneryg
+customer service / creativity / development / culture
+
+---
+
+# NExt steps
+
 
 
 
