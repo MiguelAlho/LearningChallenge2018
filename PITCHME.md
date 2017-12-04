@@ -105,8 +105,8 @@ It's something that needs to be acknowledged and accepted. This doesn't mean we 
 
 ---
 
-#### The challenge
-## @DevOpsPorto #ImGoingToLearn 
+![The challenge](assets/images/challenge.png)
+@fa[twitter] @DevOpsPorto #ImGoingToLearn 
 
 Note:
 Get your twitter app ready and type in tha hash tag .
