@@ -270,7 +270,7 @@ Note:
 ---
 ### Event Storming
 
-<div id="left">
+<div id="left" class="eventstorming">
 ![Event Storming Book](assets/images/eventstorming.book.page.1.png)
 </div>
 
