@@ -164,7 +164,7 @@ Baseline stuff for devops - choose one of these if they are not a part of your t
 * ‎‎Feature flagging
 * Deployment techniques
 * DocOps
-* Security
+* Security (OWASP and more)
 * ‎Portmortems
 * Game Day activities
 * Chaos engineering
@@ -173,6 +173,8 @@ Note:
 * alot is related to non-functional requirements and often "left behind"
 * learn a web tech to be able to build a tolling portal
 * mix feature flags and metrics capturing
+* security -> have you salted?
+* game day => deliberate practice
 
 ---
 
