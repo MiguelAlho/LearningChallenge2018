@@ -8,23 +8,11 @@
 
 ---
 
-<div id="left">
-![FARO](assets/about/faro-logo-white-15.webp)
-![Factory metrology](assets/about/factory-metrology-vertical-2.jpg)
-</div>
+<img src="assets/about/companies.png" />
 
-<div id="right">
-![Miguel Alho Multimedia](assets/about/mamultimedia.jpg)
-* Teacher
-* Grapic Designer
-* Photographer
-* Volunteer
-<br/>
 @fa[twitter] @MytyMyky
-<br/>
-@fa[globe] www.miguelalho.pt
 
-</div>
+@fa[globe] www.miguelalho.pt
 
 ---
 
