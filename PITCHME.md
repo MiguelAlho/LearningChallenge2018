@@ -7,12 +7,14 @@
 <span class="byline lowernote">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
 
 ---
-
-<img src="assets/about/companies.png" />
+<img src="assets/about/faro.png" />
+<br />
+<img src="assets/about/3d-machine-vision-vertical-2.jpg" style="display:inline-block; width:40%"/>
+<img src="assets/about/factory-metrology-vertical-2.jpg" style="display:inline-block; width:40%"/>
 
 @fa[twitter] @MytyMyky
-
 @fa[globe] www.miguelalho.pt
+@fa[email] alho@miguelalho.com
 
 ---
 
