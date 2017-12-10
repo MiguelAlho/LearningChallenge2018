@@ -101,7 +101,6 @@ Guess what?!...
 ---?image=assets/memes/itsatrap.jpg
 
 Note:
-
 * We can't really learn everything and follow along in everything. 
 * It's unfourtunate, => too much going on 
 * we won't really get anywhere if we try to ingest everything at once (Think WIP).
@@ -109,13 +108,11 @@ Note:
 AND THAT IS OK!
 
 Avoid:
-* cognitive overload
-* imposter syndrome
-* burnout
+* cognitive overload, imposter syndrome, burnout
 
-* It's something that needs to be acknowledged and accepted. 
-* This doesn't mean we should stop learning cause we're never gonna get to everything. 
-* It we should be moving forward and evolving, knowning we are going to continuously improve our selves.
+* needs to be acknowledged and accepted. 
+* This doesn't mean we should stop learning. 
+* we should be moving forward and evolving, continuously.
 
 ---
 ### Let's overcome this...
@@ -143,12 +140,13 @@ Note:
 It's like the Kanban WIP. Too much at the same time means nothing get's done.
 
 ---
-### Focus on learning that topic in 2018
+### In 2018, 
+### focus on learning that topic
 
 Note:
 * Focus your searches on that topic. 
 * Read and ingest enough to know about it, 
-* PRepare yourself to be able to apply it and bring it into you day-to-day work. 
+* Prepare yourself to be able to apply it and bring it into you day-to-day work. 
 
 * Topic doesn't have to be related to current work -> prepare yourself for what is to come
 * discover new topics to move through and reduce the "unknown
@@ -157,6 +155,7 @@ Note:
 ### I'll Help with some topics
 
 * DevOps Practices
+* Application Quality Enhancements
 * Code Patterns
 * Tools
 * Value Processes

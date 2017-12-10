@@ -18,13 +18,14 @@
     float: left;
     width:50%;
     z-index:-10;
+    font-size:75%;
 }
 
     .reveal div.left img{
         width:100%;
     }
 
-    .reveal div..left.eventstorming img, {
+    .reveal div.left.eventstorming img, {
         height:80%;
         width:80%;
     }
@@ -36,6 +37,7 @@
     text-align: right;
     z-index:-10;
     width:50%;
+    font-size:75%;
 }
 
 .reveal .lowernote {
