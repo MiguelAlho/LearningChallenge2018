@@ -24,9 +24,13 @@
 # Lifelong Learning
 
 Note:
-* Tap into our own potential - unrealized ability
+What I want to talk about today is Lifelong Learning.
+* Part of how we tap into our own "potential" - unrealized ability
+* * initial steps require learning new skills, then practicing
 * We need to have a growth mindset instead of a fixed mindset
-* "get better" => continuous improvement 
+* * the fact that you are here represents a growth mindset
+* "get better" => continuous improvement (Kaizen)
+* * personal kaizen
 
 ---
 
@@ -36,28 +40,38 @@ Note:
 Note:
 * We are, after all, knowledge workers, in a demanding profession. 
 * Companies are and want to move fast , and that requires skilled professionals. 
-* Being a highly skilled can bring along many advantages - more enjoyable work, more fulfilling work, maybe more money as you progress.
+* Problem solvers
+
+* Being a highly skilled can bring along many advantages 
+* * more enjoyable work, 
+* * more fulfilling work, 
+* * maybe more money as you progress.
+
 * We need to avoid becoming obsolete
 
+but there is a problem...
 ---
 
 ## ... but it's also time consuming
 
 Note:
 * It's not hard; 
-* It's actually enjoyable and a part of the "optimal experience" (Csikszentmihalyi); 
+* It's actually enjoyable and a part of the "optimal experience" (Csikszentmihalyi -Flow); 
 * But we are busy with everyday things and get lost in our ability to focus on aquiring new skills.
 
 ---
 
 ## The 5-Hour Rule
 ![5 hour rule](assets/images/5hourrulegraph.png)
+<span class="smallText">https://fityourself.club/the-5-hour-rule-to-excel-at-any-skill-55f2a635dc4b</span>
 
 Note:
 * Google it
 * I haven't found science around this (mostly observation)
-* but it's believe that some are highly active in learning
+* * there is better science out there on learning and habit creation / behaviour change
+* but it's believed that some are highly active in learning
 * And its a great measurable thing to consider for ourselves
+* deliberate learning
 * READ - REFLECT - EXPERIMENT
 
 (image credit: https://fityourself.club/the-5-hour-rule-to-excel-at-any-skill-55f2a635dc4b)
@@ -67,12 +81,13 @@ Note:
 ## Making time to learn is hard
 
 Note:
-Finding time is hard:
+Finding time is hard, not learning itself:
 * 8-12 hour work days, 
 * comutes, 
 * kids to care of, 
 * a work-life balance to manage.
 
+While we are managing all of this...
 ---
 
 ### ... Tech keeps changing right in front of us... 
@@ -81,21 +96,37 @@ Finding time is hard:
 Note:
 So much is going on, and there is only so much we can get through. It is overwellming at least. Scary too. 
 
+Guess what?!...
+
 ---?image=assets/memes/itsatrap.jpg
 
 Note:
+
+* We can't really learn everything and follow along in everything. 
+* It's unfourtunate, => too much going on 
+* we won't really get anywhere if we try to ingest everything at once (Think WIP).
+
+AND THAT IS OK!
+
+Avoid:
 * cognitive overload
 * imposter syndrome
 * burnout
 
-We can't really learn everything. It's unfourtunate, but there is too much going on that we won't really get anywhere if we try to ingest everything at once. AND THAT IS OK!
-
-It's something that needs to be acknowledged and accepted. This doesn't mean we should stop learning cause we're never gonna get to everything. It just means that we should be miving forward and evolving, knowning we are going to continuously improve our selves.
+* It's something that needs to be acknowledged and accepted. 
+* This doesn't mean we should stop learning cause we're never gonna get to everything. 
+* It we should be moving forward and evolving, knowning we are going to continuously improve our selves.
 
 ---
 
 ## Let's overcome this...
 
+Note: 
+* we know we want / need to learn to improve
+* we know we have a time problem to overcome
+* let's look at how we can get past that
+
+And to do so, I'm going to present a "Challenge"...
 ---
 
 ![The challenge](assets/images/challenge.png)

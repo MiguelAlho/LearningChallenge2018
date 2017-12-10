@@ -1,4 +1,8 @@
-img {border:0px}
+img {
+    border:0px; 
+    background-color: transparent;
+}
+
 img.faroImage{
     display:inline-block;
     width:30%;
