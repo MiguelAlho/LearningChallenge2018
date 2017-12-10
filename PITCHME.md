@@ -52,7 +52,7 @@ Note:
 but there is a problem...
 ---
 
-### ... but it's also time consuming
+### ... it's also time consuming
 
 Note:
 * It's not hard; 
@@ -78,7 +78,7 @@ Note:
 
 ---
 
-### Making time to learn is hard
+![Making Time](assets/images/makingtime.jpg)
 
 Note:
 Finding time is hard, not learning itself:
