@@ -328,7 +328,7 @@ Note:
 * Static analysis tools
 
 ---
-### Code Quality/Change Trend Analysis
+#### Code Quality/Change Trend Analysis
 
 <div class="left">
 ![code scene](assets/images/teams-parallel-development.png)
