@@ -305,8 +305,9 @@ Note:
 * scalability at the service and infrastructure layers
 ---
 
-### CQRS
-#### Command Query Responsability Segregation
+<h3>CQRS <span class="smallText">(Command Query Responsability Segregation)</span></h3>
+![CQRS Flow](assets/images/cqrs.png)
+<span class="smallText">https://www.infoq.com/articles/cqrs_with_axon_framework</span>
 
 Note:
 * CQS at the architectural level
