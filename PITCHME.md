@@ -567,8 +567,10 @@ Note:
 ---
 
 ## You OWN your career. 
-<span class="smallText">It solely up to you. The company you work for may help, your colleagues and friends may help, but it is up to you...</span>
 
+Note:
+It solely up to you
+ The company you work for may help, your colleagues and friends may help, but it is up to you...
 ---
 
 ## In 2018, go learn something new!
