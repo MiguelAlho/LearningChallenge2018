@@ -52,7 +52,7 @@ Note:
 but there is a problem...
 ---
 
-## ... but it's also time consuming
+### ... but it's also time consuming
 
 Note:
 * It's not hard; 
@@ -61,7 +61,7 @@ Note:
 
 ---
 
-## The 5-Hour Rule
+### The 5-Hour Rule
 ![5 hour rule](assets/images/5hourrulegraph.png)
 <span class="smallText">https://fityourself.club/the-5-hour-rule-to-excel-at-any-skill-55f2a635dc4b</span>
 
@@ -78,7 +78,7 @@ Note:
 
 ---
 
-## Making time to learn is hard
+### Making time to learn is hard
 
 Note:
 Finding time is hard, not learning itself:
@@ -118,7 +118,7 @@ Avoid:
 * It we should be moving forward and evolving, knowning we are going to continuously improve our selves.
 
 ---
-## Let's overcome this...
+### Let's overcome this...
 
 Note: 
 * we know we want / need to learn to improve
@@ -143,7 +143,7 @@ Note:
 It's like the Kanban WIP. Too much at the same time means nothing get's done.
 
 ---
-## Focus on learning that topic in 2018
+### Focus on learning that topic in 2018
 
 Note:
 * Focus your searches on that topic. 
@@ -170,7 +170,7 @@ Note:
 
 ---
 
-## DevOps Practices
+### DevOps Practices
 
 * TDD / BDD
 * CI / CD pipelines
@@ -185,17 +185,21 @@ Baseline stuff for devops - choose one of these if they are not a part of your t
 ### DevOps Practices
 
 <div class="left">
-* Logging, Monitoring and business metrics capturing
-* Infrastructure as code
-* ‎‎Feature flagging
-* Deployment techniques
-* DocOps
+    <ul>
+        <li>Logging, Monitoring and business metrics capturing</li>
+        <li>Infrastructure as code</li>
+        <li>‎‎Feature flagging</li>
+        <li>Deployment techniques</li>
+        <li>DocOps</li>
+    </ul>
 </div>
 <div class="right">
-* Security (OWASP and more)
-* ‎Portmortems
-* Game Day activities
-* Chaos engineering
+    <ul>
+        <li>Security (OWASP and more)</li>
+        <li>‎Portmortems</li>
+        <li>Game Day activities</li>
+        <li>Chaos engineering</li>
+    </ul>
 </div>
 
 Note:
@@ -223,24 +227,26 @@ Note:
 
 ```Markdown
 #0003 - Add Request Logging
-
 ##Date: 2017-02-24
-
-##Status
-
-Complete
 
 ##Context
 
-Debugging calls to the server can be hard if requests and responses are not logged. By logging every request and response (or a subset of that info), we can understand if a request ever arrives at the service (or if the calling apps failure is due to some other condition) and we can also monitor requests by aggregating information from the requests and erros produced
+Debugging calls to the server can be hard if requests and responses 
+are not logged. By logging every request and response (or a subset 
+of that info), we can understand if a request ever arrives at the service 
+(or if the calling apps failure is due to some other condition) and we
+can also monitor requests by aggregating information from the requests 
+and erros produced
 
 ##Decision
 
-Add Middleware log every request and response. Response message should have code and time.
+Add Middleware log every request and response. Response message should 
+have code and time.
 
 ##Consequences
 
-* we can see every resquest made and mount monitoring dashboards on top of that. Tracking and debuggung options are improved.
+* we can see every resquest made and mount monitoring dashboards on top 
+of that. Tracking and debuggung options are improved.
 ```
 <span class="smallText">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
 
@@ -252,12 +258,13 @@ Note:
 * Great help for the onboarding process
 * Functional + Non Functional
 * Context to your change history
+* ThoughtWorks radar Adopt status
 
 * Read Micheal Nygards stuff on this
 
 ---
 
-## Consumer Driven Contracts
+### Consumer Driven Contracts
 
 #### It's like TDD for services
 
@@ -271,17 +278,25 @@ NOTE:
 * check out Beth Skurrie's presentations
 ---
 
-## Coding Patterns
+### Coding Patterns
 
-* ‎CQRS
-* Resiliency patterns (circuit breaker)
-* DB migrations
-* NoSql
-* Microservice patterns
-* Event Sourcing
-* Message queue patterns
-* Reactive design 
-* Scalability patterns
+<div class="left">
+    <ul>
+        <li><span class="highlight">‎CQRS</li></li>
+        <li>Resiliency patterns (circuit breaker)</li>
+        <li>DB migrations</li>
+        <li>NoSql</li>
+        <li>Microservice patterns</li>
+    </ul>
+</div>
+<div class="right">
+    <ul>
+        <li>Event Sourcing</li>
+        <li>Message queue patterns</li>
+        <li>Reactive design </li>
+        <li>Scalability patterns</li>
+    </ul>
+</div>
 
 Note: 
 * uService ‎- discovery, monitoring, containerization, scheduling ...
@@ -290,7 +305,7 @@ Note:
 * scalability at the service and infrastructure layers
 ---
 
-## CQRS
+### CQRS
 #### Command Query Responsability Segregation
 
 Note:
@@ -301,10 +316,10 @@ Note:
 * REACT a bit like this on the UI layer
 
 ---
-## Tools
+### Tools
 
-* Code Quality Analysis 
-* Code change trend analysis
+* <span class="highlight">Code Quality Analysis </span>
+* <span class="highlight">Code change trend analysis</span>
 * Linters
 * ‎Build scripting
 * Package managers
@@ -313,15 +328,22 @@ Note:
 ---
 ### Code Quality/Change Trend Analysis
 
-#### Tools like Code-Maat and SonarQube
+<div class="left">
+![code scene](assets/images/codescene_graph.png)
+[codescene.io](https://codescene.io)
+</div>
+<div class="right">
+![sonarqube](assets/images/project-history.png)
+[sonarqube.org](https://www.sonarqube.org)
+</div>
 
 Note:
-* Sonar Qube stores code metrics and analysis histroically
+* SonarQube stores code metrics and analysis histroically
 * Code-maat checks for code coupling trends and change motivation
 ---
-## Value Processes
+### Value Processes
 
-* Event storming 
+* <span class="highlight">Event storming</span> 
 * Value stream mapping
 * Impact mapping
 * Maturity model evaluations
@@ -352,7 +374,7 @@ Note:
 
 ---
 
-## People Skills & Personal Development
+### People Skills & Personal Development
 
 * Writing
 * "‎Captains Log"
@@ -363,7 +385,7 @@ Note:
  
 ---
 
-## You can choose topics that are not on this list
+### You can choose topics that are not on this list
 
 ---
 
@@ -387,11 +409,11 @@ Note:
 
 ---
 
-# How to find the time?
+![Making Time](assets/images/makingtime.jpg)
 
 ---
 
-## Some techniques:
+### Some techniques:
 
 *  Lunch and Learn
 *  Group gatherings
@@ -405,8 +427,10 @@ If you know any good ones that work for you , PLEASE DO SHARE
 
 ---
 
-## Lunch and Learn
-### (4 ways to do it)
+### Lunch and Learn
+#### ~ 40 hours per year of learning if you do it once a week.
+![Lunch and Learn](assets/images/lunchLearn.jpg)
+<span class="smallText">(1/5th of the 5-Hour rule)</span>
 
 Note:
 * Classic : Someone brings a theme and a short presentations, and presents at lunch hour.
@@ -415,19 +439,10 @@ all you need is some projector. everyone typically needs to eat lunch
 Just watch a tutorial or conference presentation at lunch (in group)
 0 cost, guaranteed info ingestion
 * Variation 2
-A bit more formal, and reduced time limite (15)
-a.k.a Speed Training
-* Variation 3
 While having lunch, watch some tutorial or presentation
 
 ---
-
-#### ~ 40 hours per year of learning if you do it once a week.
-(1/5th of the 5-Hour rule)
-
----
-
-## Group Gatherings
+### Group Gatherings
 
 Go To Conferences, Workshops and Meetups
 
@@ -438,7 +453,7 @@ Note:
 
 --- 
 
-## Habit of reading books
+### Habit of reading books
 
 Note:
 Challenge Adendum : Book challenge
@@ -449,8 +464,7 @@ Challenge Adendum : Book challenge
 
 ---
 
-## Mix Activities 
-### (examples)
+### Mix Activities 
 
 * read books on your comute
 * listen to podcasts while you drive
@@ -503,7 +517,7 @@ Volunteer for it
 
 ---
 
-## You time
+### YOU time
 
 #### Ultimately, you (may) need to schedule time for learning
 
@@ -556,6 +570,9 @@ It solely up to you. Your company may help/ your colleagues and friends may help
 
 ## In 2018, go learn something new!
 
-#### thank you very much
-#### www.miguelalho.pt
+<span class="smallText"> thank you very much</span>
+<hr />
+@fa[twitter] @MytyMyky <br/>
+@fa[globe] www.miguelalho.pt </br>
+@fa[envelope] alho@miguelalho.com <br/>
 ---

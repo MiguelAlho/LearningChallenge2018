@@ -1,4 +1,4 @@
-.reveal img {
+.reveal img, reveal section img {
     border:0px; 
     background-color: transparent;
 }
