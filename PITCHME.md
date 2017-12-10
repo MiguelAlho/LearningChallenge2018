@@ -474,7 +474,7 @@ Challenge Adendum : Book challenge
 * watch a presentation while you cook
 * toilet reading
 
-NOTE: 
+Note: 
 The idea is to do regular daily stuff (not cognitively expensive) with information ingestion
 
 * Learning requires focus. You can't focus if you mix activities that require attention. 
@@ -506,7 +506,6 @@ Note:
 * a dev can automate some unautomated process
 * a dev can do customer support
 
-Note:
 Volunteer for it
 
 ---
