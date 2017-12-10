@@ -118,7 +118,6 @@ Avoid:
 * It we should be moving forward and evolving, knowning we are going to continuously improve our selves.
 
 ---
-
 ## Let's overcome this...
 
 Note: 
@@ -128,43 +127,46 @@ Note:
 
 And to do so, I'm going to present a "Challenge"...
 ---
-
 ![The challenge](assets/images/challenge.png)
+<hr />
 @fa[twitter] @DevOpsPorto #ImGoingToLearn 
 
 Note:
-Get your twitter app ready and type in tha hash tag .
+* Get your twitter app ready and type in tha hash tag .
 
 ---
-
 ### Choose a topic - one is enough 
 
-<span class="byline">(hint: it's better than 0)</span>
+<span class="smallText">(hint: it's better than 0)</span>
 
 Note:
 It's like the Kanban WIP. Too much at the same time means nothing get's done.
 
 ---
-
 ## Focus on learning that topic in 2018
 
 Note:
-Focus your searches on that topic. Read and ingest enough to know about it, enough to apply it and bring it into you day-to-day work. Or event to discover new topics to move through.
+* Focus your searches on that topic. 
+* Read and ingest enough to know about it, 
+* PRepare yourself to be able to apply it and bring it into you day-to-day work. 
+
+* Topic doesn't have to be related to current work -> prepare yourself for what is to come
+* discover new topics to move through and reduce the "unknown
 
 ---
-
-## I'll Help with some topics
-
-Note:
-We'll break them down into areas, You choose what you feel would be the most benficial to you short / mid / long term (choose one). If your feeling brave, choose more, but don't over do it. But get at least one.
-
----
+### I'll Help with some topics
 
 * DevOps Practices
 * Code Patterns
 * Tools
 * Value Processes
 * People Skills & Personal Development
+
+Note:
+* We'll break them down into areas, 
+* You choose what you feel would be the most benficial to you short / mid / long term (choose one).
+* If your feeling brave, choose more, but don't over do it. 
+* Important to get at least one.
 
 ---
 
@@ -180,18 +182,21 @@ Note:
 Baseline stuff for devops - choose one of these if they are not a part of your toolbelt yet. They are foundational
 
 ---
-
 ## DevOps Practices
 
+<div class="left">
 * Logging, Monitoring and business metrics capturing
 * Infrastructure as code
 * ‎‎Feature flagging
 * Deployment techniques
 * DocOps
+</div>
+<div class="right">
 * Security (OWASP and more)
 * ‎Portmortems
 * Game Day activities
 * Chaos engineering
+</div>
 
 Note:
 * alot is related to non-functional requirements and often "left behind"
@@ -204,9 +209,9 @@ Note:
 
 ## Application Quality Enhancements
 
-* ‎ADRs
+* ‎<span class="highlight">ADRs</span>
 * Living documentation
-* Consumer Driven Contracts
+* <span class="highlight">Consumer Driven Contracts</span>
 * DB testing
 * Infrastructure Testing
 * Nonfunctional validation
@@ -216,7 +221,28 @@ Note:
 ## ADRs 
 #### Architecture Decision Records
 
-<span class="byline lowernote">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
+```Markdown
+#0003 - Add Request Logging
+
+##Date: 2017-02-24
+
+##Status
+
+Complete
+
+##Context
+
+Debugging calls to the server can be hard if requests and responses are not logged. By logging every request and response (or a subset of that info), we can understand if a request ever arrives at the service (or if the calling apps failure is due to some other condition) and we can also monitor requests by aggregating information from the requests and erros produced
+
+##Decision
+
+Add Middleware log every request and response. Response message should have code and time.
+
+##Consequences
+
+* we can see every resquest made and mount monitoring dashboards on top of that. Tracking and debuggung options are improved.
+```
+<span class="smallText">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
 
 Note:
 * short text file (don't overdo it)
