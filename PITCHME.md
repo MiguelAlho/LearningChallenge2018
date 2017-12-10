@@ -222,30 +222,25 @@ Note:
 ---
 
 ### ADRs 
-#### Architecture Decision Records
+<span class="smallText">Architecture Decision Records</span>
 
 ```Markdown
 #0003 - Add Request Logging
 ##Date: 2017-02-24
 
 ##Context
-
-Debugging calls to the server can be hard if requests and responses 
-are not logged. By logging every request and response (or a subset 
-of that info), we can understand if a request ever arrives at the service 
-(or if the calling apps failure is due to some other condition) and we
-can also monitor requests by aggregating information from the requests 
-and erros produced
+Debugging calls to the server can be hard if requests and responses are not logged. 
+By logging every request and response we can understand if a request ever arrives 
+at the service and we can also monitor requests by aggregating information from the 
+requests and errors produced
 
 ##Decision
-
-Add Middleware log every request and response. Response message should 
-have code and time.
+Add Middleware log every request and response. Response message should have 
+code and time.
 
 ##Consequences
-
-* we can see every resquest made and mount monitoring dashboards on top 
-of that. Tracking and debuggung options are improved.
+* we can see every resquest made and mount monitoring dashboards on 
+top of that. Tracking and debuggung options are improved.
 ```
 <span class="smallText">[https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)</span>
 

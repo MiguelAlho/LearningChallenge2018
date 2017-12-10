@@ -44,6 +44,10 @@
     font-size:60%;
 }
 
+.reveal pre code{
+    font-size:80%;
+}
+
 .highlight{
     color: #fdf479;
 }
