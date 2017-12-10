@@ -404,6 +404,7 @@ Note:
 Note:
 I hear too often "I don't have the time"
 (I sometimes say it too)
+Back to the idea of making time!
 
 ---
 
@@ -428,7 +429,9 @@ If you know any good ones that work for you , PLEASE DO SHARE
 
 ### Lunch and Learn
 <span class="smallText"> ~ 40 hours per year of learning if you do it once a week.<span>
+
 ![Lunch and Learn](assets/images/lunchLearn.jpg)
+
 <span class="smallText">(1/5th of the 5-Hour rule)</span>
 
 Note:
