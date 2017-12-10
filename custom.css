@@ -1,3 +1,7 @@
+img {border:0px}
+
+.smallText{ font-size:60%}
+
 #left {
     left:-8.33%;
     text-align: left;
@@ -25,5 +29,10 @@
 }
 
 .lowernote {
-    font-size:28px;
+    font-size:60%;
+}
+
+.faroImages{
+    display:inline-block;
+    width:30%;
 }
