@@ -221,8 +221,7 @@ Note:
  
 ---
 
-### ADRs 
-<span class="smallText">Architecture Decision Records</span>
+<h3>ADRs <span class="smallText">(Architecture Decision Records)</span></h3>
 
 ```Markdown
 #0003 - Add Request Logging
