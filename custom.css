@@ -1,18 +1,18 @@
-img {
+.reveal img {
     border:0px; 
     background-color: transparent;
 }
 
-img.faroImage{
+.reveal img.faroImage{
     display:inline-block;
     width:30%;
     background-color: transparent;
     border:0px;
 }
 
-.smallText{ font-size:60%}
+.reveal .smallText{ font-size:60%}
 
-#left, .left {
+.reveal div.left {
     left:-8.33%;
     text-align: left;
     float: left;
@@ -20,16 +20,16 @@ img.faroImage{
     z-index:-10;
 }
 
-    #left img, .left img{
+    .reveal div.left img{
         width:100%;
     }
 
-    #left.eventstorming img, .left.eventstorming img, {
+    .reveal div..left.eventstorming img, {
         height:80%;
         width:80%;
     }
 
-#right, .right {
+.reveal div .right {
     left:31.25%;
     top: 75px;
     float: right;
@@ -38,7 +38,7 @@ img.faroImage{
     width:50%;
 }
 
-.lowernote {
+.reveal .lowernote {
     font-size:60%;
 }
 

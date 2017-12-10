@@ -182,7 +182,7 @@ Note:
 Baseline stuff for devops - choose one of these if they are not a part of your toolbelt yet. They are foundational
 
 ---
-## DevOps Practices
+### DevOps Practices
 
 <div class="left">
 * Logging, Monitoring and business metrics capturing
@@ -207,7 +207,7 @@ Note:
 
 ---
 
-## Application Quality Enhancements
+### Application Quality Enhancements
 
 * ‎<span class="highlight">ADRs</span>
 * Living documentation
@@ -218,7 +218,7 @@ Note:
  
 ---
 
-## ADRs 
+### ADRs 
 #### Architecture Decision Records
 
 ```Markdown
@@ -329,11 +329,11 @@ Note:
 ---
 ### Event Storming
 
-<div id="left" class="eventstorming">
+<div class="left eventstorming">
 ![Event Storming Book](assets/images/eventstorming.book.page.1.png)
 </div>
 
-<div id="right">
+<div class="right">
 <ul>
     <li>Physical software modeling technique</li>
     <li>Excelent for project inception phases</li>
