@@ -259,7 +259,14 @@ Note:
 
 ### Consumer Driven Contracts
 
-#### It's like TDD for services
+<div class="left">
+![CDC step 1](assets/images/Pact1.png)
+
+</div>
+<div class="right">
+![CDC step 2](assets/images/Pact2.png)
+</div>
+<span class="smallText">https://dius.com.au/2016/02/03/microservices-pact/</span>
 
 NOTE:
 * consumers write expectation
