@@ -354,7 +354,7 @@ Note:
 ### Event Storming
 
 <div class="left eventstorming">
-![Event Storming Book](assets/images/eventstorming.book.page.1.png)
+    <img src="assets/images/eventstorming.book.page.1.png" style="width:75%" />
 </div>
 
 <div class="right">
