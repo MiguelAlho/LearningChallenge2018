@@ -1,4 +1,10 @@
 img {border:0px}
+img.faroImage{
+    display:inline-block;
+    width:30%;
+    background-color: transparent;
+    border:0px;
+}
 
 .smallText{ font-size:60%}
 
@@ -32,10 +38,3 @@ img {border:0px}
     font-size:60%;
 }
 
-.faroImage{
-    display:inline-block;
-    width:30%;
-    background-color: transparent;
-    border:0px;
-
-}
