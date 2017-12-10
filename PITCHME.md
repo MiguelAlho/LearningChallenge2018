@@ -391,22 +391,18 @@ Note:
 
 ---
 
-## Commit to it throughout the year
+### Commit to it throughout the year
 
----
-
-## ...but it's OK to change throughout the year
-
+Note:
+...but it's OK to change throughout the year
 (that's ok)
 
 ---
 
 ## Sounds easy right?
 
----
-
-## I hear too often "I don't have the time"
-
+Note:
+I hear too often "I don't have the time"
 (I sometimes say it too)
 
 ---
@@ -417,11 +413,12 @@ Note:
 
 ### Some techniques:
 
-*  Lunch and Learn
-*  Group gatherings
-*  Mix activities
-*  Mix it into work
-*  YOU time (schedule it!)
+* Lunch and Learn
+* Group gatherings
+* Book Reading Habit
+* Mix activities
+* Mix it into work
+* YOU time (schedule it!)
 
 NOTE: 
 (mix and match)
@@ -430,7 +427,7 @@ If you know any good ones that work for you , PLEASE DO SHARE
 ---
 
 ### Lunch and Learn
-#### ~ 40 hours per year of learning if you do it once a week.
+<span class="smallText"> ~ 40 hours per year of learning if you do it once a week.<span>
 ![Lunch and Learn](assets/images/lunchLearn.jpg)
 <span class="smallText">(1/5th of the 5-Hour rule)</span>
 
@@ -446,9 +443,8 @@ While having lunch, watch some tutorial or presentation
 ---
 ### Group Gatherings
 
-Go To Conferences, Workshops and Meetups
-
 Note:
+* Go To Conferences, Workshops and Meetups
 * Our meetup is 2 hours of monthly-ish learning.
 * Social aspect enables some interesting things in our brains
 * take it a step further and organize one
@@ -463,6 +459,7 @@ Challenge Adendum : Book challenge
 * fiction plus non fiction
 * ‎book group / swap
 * start a company library
+* free books and cheap used books
 
 ---
 
@@ -486,20 +483,22 @@ The idea is to do regular daily stuff (not cognitively expensive) with informati
 
 ### Mix it into work
 
-On the job, deliberately
-
 * katas
 * tutorials
 * Q&A
-* blog post reading and indexing
 * documenting and sharing learnings
 * link sharing
+
+Note:
+On the job, deliberately
 
 ---
 
 ### Pairing at work
 
 Learn what other do by working with them, or help them acheive their goals
+
+Note:
 * a dev can work with ops on on-call duty
 * a dev can automate some unautomated process
 * a dev can do customer support
@@ -511,7 +510,7 @@ Volunteer for it
 
 ### Improving at work
 
-* Using 1-on-1s and Mentoring
+* Using 1-on-1s and mentoring
 * Logging work and discoveries
 * Learning retrospectives
 * Portmortems to blamelessly learn from failure
@@ -521,14 +520,14 @@ Volunteer for it
 
 ### YOU time
 
-#### Ultimately, you (may) need to schedule time for learning
+Ultimately, YOU (may) need to schedule time for learning
 
 Note:
 deliberately set the time aside (like a meeting) 
 
 ---
  
-## Bring others along for the ride
+### Bring others along for the ride
 
 Note:
 Like running, learning efforts can benefit from having others around you, pushing you forward and feeding from your effort.
@@ -536,7 +535,7 @@ Careful, others may reduce efficiency if not focused / committed.
 
 ---
 
-## Bring your organization along
+### Bring your organization along
 
 Note:
 Is your company a learing organization? Can you be the one who helps transform it into one?
@@ -544,19 +543,19 @@ Is your company a learing organization? Can you be the one who helps transform i
 
 ---
 
-## Your company IS accountable for your training
+### The company you work for IS accountable for your training
 
 Note:
 Both by law and by interest.
 
 Lobby for your training if you are not getting it.
-* get to workshops and conferences
+* get to go to workshops and conferences
 * get them to buy the books
 * get them to subsscribe to training sites (Lynda, Pluralsight, Mapt, Safari, Udemy...)
 
 ---
 
-## YOU are accountable for your training
+### YOU are accountable for your training
 
 Note:
 * You SHOULD buy books and videos
@@ -566,13 +565,14 @@ Note:
 ---
 
 ## You OWN your career. 
-It solely up to you. Your company may help/ your colleagues and friends may help, but it is up to you...
+<span class="smallText">It solely up to you. The company you work for may help, your colleagues and friends may help, but it is up to you...</span>
 
 ---
 
 ## In 2018, go learn something new!
 
-<span class="smallText"> thank you very much</span>
+<hr />
+<span class="smallText"> thank you very much!</span>
 <hr />
 @fa[twitter] @MytyMyky <br/>
 @fa[globe] www.miguelalho.pt </br>
