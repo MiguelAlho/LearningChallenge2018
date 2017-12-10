@@ -35,4 +35,7 @@ img {border:0px}
 .faroImage{
     display:inline-block;
     width:30%;
+    background-color: transparent;
+    border:0px;
+
 }
