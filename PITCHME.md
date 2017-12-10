@@ -353,14 +353,14 @@ Note:
 ---
 ### Event Storming
 
-<div class="left eventstorming">
-    <img src="assets/images/eventstorming.book.page.1.png" style="width:75%" />
+<div class="eventstorming">
+![Event Storming Book](assets/images/eventstorming.book.page.1.png)
 </div>
 
 <div class="right">
 <ul>
     <li>Physical software modeling technique</li>
-    <li>Excellent for project inception phases</li>
+    <li>Excelent for project inception phases</li>
     <li>Domain events and Aggregate exploration</li>
     <li>Helps find Bounded contexts and subdomains, too</li>
 </ul>

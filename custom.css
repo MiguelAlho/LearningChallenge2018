@@ -12,7 +12,7 @@
 
 .reveal .smallText{ font-size:60%}
 
-.reveal div.left {
+.reveal div.left, .reveal div.eventstorming {
     left:-8.33%;
     text-align: left;
     float: left;
