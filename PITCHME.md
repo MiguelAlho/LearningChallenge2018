@@ -331,11 +331,11 @@ Note:
 ### Code Quality/Change Trend Analysis
 
 <div class="left">
-![code scene](assets/images/codescene_graph.png)
+![code scene](assets/images/teams-parallel-development.png)
 [codescene.io](https://codescene.io)
 </div>
 <div class="right">
-![sonarqube](assets/images/project-history.png)
+![sonarqube](assets/images/sonarcube-configuration.png)
 [sonarqube.org](https://www.sonarqube.org)
 </div>
 
