@@ -9,7 +9,7 @@
 ---
 <img src="assets/about/3d-machine-vision-vertical-2.jpg" class="faroImage"/>
 <img src="assets/about/faro.png" class="faroImage" />
-<img src="assets/about/factory-metrology-vertical-2.jpg" style="faroImage"/>
+<img src="assets/about/factory-metrology-vertical-2.jpg" class="faroImage"/>
 <hr />
 <span class="smallText">
     Software Engineer, Freelancer, Trainer <br/> 
